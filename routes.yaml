@@ -1,0 +1,31 @@
+routes:
+  - ["geral/clientes/", "ListarClientes"]
+  - ["geral/projetos/", "ListarProjetos"]
+  - ["geral/departamentos/", "ListarDepartamentos"]
+  - ["geral/categorias/", "ListarCategorias"]
+
+  - ["crm/contas/", "ListarContas"]
+  - ["crm/oportunidades/", "ListarOportunidades"]
+  - ["crm/tarefas/", "ListarTarefas"]
+
+  - ["financas/contapagar/", "ListarContasPagar"]
+  - ["financas/contareceber/", "ListarContasReceber"]
+  - ["financas/contacorrente/", "ListarContasCorrentes"]
+  - ["financas/extrato/", "ListarExtrato"]
+  - ["financas/pesquisartitulos/", "PesquisarTitulos"]
+
+  - ["geral/produtos/", "ListarProdutos"]
+  - ["compras/pedidocompra/", "ListarPedidosCompra"]
+  - ["produtos/op/", "ListarOrdemProducao"]
+  - ["estoque/movestoque/", "ListarMovimentos"]
+  - ["estoque/ajustes/", "ListarAjustes"]
+
+  - ["vendas/pedidovenda/", "ListarPedidosVenda"]
+  - ["vendas/nfemitida/", "ListarNFes"]
+  - ["vendas/tabelaprecos/", "ListarTabelasPrecos"]
+
+  - ["servicos/servicos/", "ListarServicos"]
+  - ["servicos/os/", "ListarOS"]
+  - ["servicos/contrato/", "ListarContratos"]
+
+  - ["geral/documentos/", "ListarDocumentos"]
